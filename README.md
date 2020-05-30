@@ -2,7 +2,7 @@
 
 Fully functional Django Blog looks like Twitter.
 
-Demo Image:
+Take a Peek
 ![](Demo.png)
 
 ## Setup
@@ -20,7 +20,3 @@ Demo Image:
 6. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
 
 7. Run app localy with: ```python manage.py runserver```.
-
-## Certificate
-This project is officialy certified by Bershawi
-
