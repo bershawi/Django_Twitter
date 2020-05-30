@@ -1,6 +1,6 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by Besrhawi
 
-Fully functional Django App that looks ecxatly like real Twitter.
+Fully functional Django Blog looks like Twitter.
 
 Demo Image:
 ![](Demo.png)
